@@ -16,4 +16,9 @@ public class JavaUtility {
 		
 		return currentTime;
 	}
+	
+	public static void getSquare() {
+		Math.sqrt(0);
+		System.out.println("This Changes By sanddep Singh");
+	}
 }
